@@ -1,0 +1,13 @@
+Item,Component,Specification,Quantity,Function
+1,Microcontroller,Arduino Uno R3 (ATmega328P),1,Main Controller & Logic Execution
+2,Obstacle Sensor,Active Infrared Sensor (MH-B),1,Real-time Obstacle Avoidance
+3,Motor Drivers,L293D Dual H-Bridge Module,2,Differential Drive & Roller Motor Control
+4,Drive Motors,12V DC Geared Motors,2,Platform Locomotion & Torque Delivery
+5,Auxiliary Motor,12V DC Geared Motor,1,Rotational Mop/Roller Drive
+6,Convection Unit,WURTH High-Velocity Air Blower,1,Surface Thermal Evaporation
+7,Switching Relay,Songle 12V SPDT Relay Module,1,Electrical Isolation for Blower Unit
+8,Power Source,Amardeep 12V Rechargeable Battery,1,Autonomous System Power
+9,Roller Module,High-Absorbency Cylindrical Mop,1,Mechanical Water Dispersion & Absorption
+10,Chassis,Welded Steel Tube Rectangular Frame,1,Structural Mount & Component Housing
+11,Locomotion Wheels,High-Traction Treaded Rubber Wheels,4,Slip-Resistant Floor Contact
+12,Switching & Wiring,Heavy-Duty Rocker Switch & Connectors,1 Set,Master Power Control & Distribution
